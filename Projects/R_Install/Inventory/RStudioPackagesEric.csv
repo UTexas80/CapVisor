@@ -1,0 +1,184 @@
+"","Package","LibPath","Version","Priority","Depends","Imports","LinkingTo","Suggests","Enhances","License","License_is_FOSS","License_restricts_use","OS_type","MD5sum","NeedsCompilation","Built"
+"acepack","acepack","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.4.1",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"ash","ash","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0-15",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.2"
+"assertthat","assertthat","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1",NA,NA,NA,NA,"testthat",NA,"GPL-3",NA,NA,NA,NA,"no","3.3.1"
+"backports","backports","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.1.1",NA,"R (>= 3.0.0)","utils",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.3.3"
+"base64enc","base64enc","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1-3",NA,"R (>= 2.9.0)",NA,NA,NA,"png","GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"BH","BH","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.60.0-2",NA,NA,NA,NA,NA,NA,"BSL-1.0",NA,NA,NA,NA,"no","3.3.0"
+"bindr","bindr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"bindrcpp","bindrcpp","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.2",NA,NA,"Rcpp, bindr","Rcpp, plogr","testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"bitops","bitops","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0-6",NA,NA,NA,NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.0"
+"caTools","caTools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.17.1",NA,"R (>= 2.2.0)","bitops",NA,"MASS, rpart",NA,"GPL-3",NA,NA,NA,NA,"yes","3.3.3"
+"checkmate","checkmate","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.8.5",NA,"R (>= 3.0.0)","backports (>= 1.1.0), utils",NA,"R6, bit, fastmatch, data.table (>= 1.9.8), devtools, ggplot2,
+knitr, magrittr, microbenchmark, rmarkdown, testthat (>=
+0.11.0), tibble",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"chemCal","chemCal","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1-37",NA,NA,NA,NA,"MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.3"
+"chron","chron","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.3-47",NA,"R (>= 2.12.0)","graphics, stats",NA,"scales, ggplot2","zoo","GPL-2",NA,NA,NA,NA,"yes","3.3.1"
+"colorspace","colorspace","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2-6",NA,"R (>= 2.13.0), methods","graphics",NA,"KernSmooth, MASS, kernlab, mvtnorm, vcd, dichromat, tcltk",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"corpcor","corpcor","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.6.9",NA,"R (>= 3.0.2)","stats",NA,"",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.3.3"
+"crayon","crayon","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.3.2",NA,NA,"grDevices, methods, utils",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"curl","curl","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2",NA,"R (>= 3.0.0)",NA,NA,"testthat (>= 1.0.0), knitr, jsonlite, rmarkdown, magrittr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"data.table","data.table","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.10.4-3",NA,"R (>= 3.0.0)","methods",NA,"bit64, knitr, nanotime, chron, ggplot2 (>= 0.9.0), plyr,
+reshape, reshape2, testthat (>= 0.4), hexbin, fastmatch, nlme,
+xts, gdata, GenomicRanges, caret, curl, zoo, plm, rmarkdown,
+parallel",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"DBI","DBI","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.4-1",NA,"R (>= 2.15.0), methods",NA,NA,"testthat, RSQLite, knitr, covr",NA,"LGPL (>= 2)",NA,NA,NA,NA,"no","3.3.1"
+"devtools","devtools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.12.0",NA,"R (>= 3.0.2)","httr (>= 0.4), utils, tools, methods, memoise (>= 1.0.0),
+whisker, digest, rstudioapi (>= 0.2.0), jsonlite, stats, git2r
+(>= 0.11.0), withr",NA,"curl (>= 0.9), crayon, testthat (>= 0.7), BiocInstaller, Rcpp
+(>= 0.10.0), MASS, rmarkdown, knitr, hunspell (>= 1.2), lintr
+(>= 0.2.1), bitops, roxygen2 (>= 5.0.0), evaluate, rversions,
+covr, gmailr (> 0.7.0)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"dichromat","dichromat","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.0-0",NA,"R (>= 2.10), stats",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,NA,"3.3.0"
+"digest","digest","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.6.10",NA,"R (>= 2.4.1)",NA,NA,"knitr, rmarkdown",NA,"GPL-2",NA,NA,NA,NA,"yes","3.3.1"
+"dplyr","dplyr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.7.4",NA,"R (>= 3.1.2)","assertthat, bindrcpp (>= 0.2), glue (>= 1.1.1), magrittr,
+methods, pkgconfig, rlang (>= 0.1.2), R6, Rcpp (>= 0.12.7),
+tibble (>= 1.3.1), utils","Rcpp (>= 0.12.0), BH (>= 1.58.0-1), bindrcpp, plogr","bit64, covr, dbplyr, dtplyr, DBI, ggplot2, hms, knitr, Lahman
+(>= 3.0-1), mgcv, microbenchmark, nycflights13, rmarkdown,
+RMySQL, RPostgreSQL, RSQLite, testthat, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"evaluate","evaluate","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.9",NA,"R (>= 3.0.2)","methods, stringr (>= 0.6.2)",NA,"testthat, lattice, ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"formatR","formatR","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.4",NA,"R (>= 3.0.2)",NA,NA,"codetools, shiny, testit, knitr",NA,"GPL",NA,NA,NA,NA,"no","3.3.1"
+"Formula","Formula","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2-2",NA,"R (>= 2.0.0), stats",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.3.3"
+"gdtools","gdtools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.0.7",NA,NA,"Rcpp (>= 0.12.0)","Rcpp","htmltools, testthat",NA,"GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"ggplot2","ggplot2","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.2.1",NA,"R (>= 3.1)","digest, grid, gtable (>= 0.1.1), MASS, plyr (>= 1.7.1),
+reshape2, scales (>= 0.4.1), stats, tibble, lazyeval",NA,"covr, ggplot2movies, hexbin, Hmisc, lattice, mapproj, maps,
+maptools, mgcv, multcomp, nlme, testthat (>= 0.11.0), quantreg,
+knitr, rpart, rmarkdown, svglite","sp","GPL-2 | file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"git2r","git2r","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.15.0",NA,"R (>= 3.0.2), methods","graphics, utils",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.3.0"
+"glue","glue","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2.0",NA,"R (>= 3.1)","methods",NA,"testthat, covr, magrittr, crayon, knitr, rmarkdown, DBI,
+RSQLite, R.utils, forcats, microbenchmark, rprintf, stringr,
+ggplot2",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"gridExtra","gridExtra","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.3",NA,NA,"gtable, grid, grDevices, graphics, utils",NA,"ggplot2, egg, lattice, knitr, testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.3"
+"gsubfn","gsubfn","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.6-6",NA,"R (>= 2.15.0), proto",NA,NA,"boot, chron, doBy, grid, lattice, quantreg, reshape, svUnit,
+tcltk, zoo",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.1"
+"gtable","gtable","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.2.0",NA,"R (>= 2.14)","grid",NA,"testthat, covr",NA,"GPL-2",NA,NA,NA,NA,"no","3.3.1"
+"highr","highr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.6",NA,"R (>= 3.0.2)",NA,NA,"knitr, testit",NA,"GPL",NA,NA,NA,NA,"no","3.3.1"
+"HistogramTools","HistogramTools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.3.2",NA,NA,"Hmisc, ash, stringr",NA,"RUnit, emdist, gdata","RProtoBuf","Apache License 2.0",NA,NA,NA,NA,"no","3.3.3"
+"Hmisc","Hmisc","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","4.0-3",NA,"lattice, survival (>= 2.40-1), Formula, ggplot2 (>= 2.2)","methods, latticeExtra, cluster, rpart, nnet, acepack, foreign,
+gtable, grid, gridExtra, data.table, htmlTable, viridis,
+htmltools, base64enc",NA,"chron, rms, mice, tables, knitr, ff, ffbase, plotly (>=
+4.5.6)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.3"
+"htmlTable","htmlTable","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.9",NA,NA,"stringr, knitr (>= 1.6), magrittr (>= 1.5), methods,
+checkmate, htmlwidgets",NA,"testthat, XML, xtable, ztable, Hmisc, reshape, rmarkdown,
+pander, chron, lubridate",NA,"GPL (>= 3)",NA,NA,NA,NA,"no","3.3.3"
+"htmltools","htmltools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.3.5",NA,"R (>= 2.14.1)","utils, digest, Rcpp","Rcpp","markdown, testthat","knitr","GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"htmlwidgets","htmlwidgets","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.9",NA,NA,"htmltools (>= 0.3), jsonlite (>= 0.9.16), yaml",NA,"knitr (>= 1.8)","shiny (>= 0.12)","MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"httpuv","httpuv","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.3.3",NA,"R (>= 2.15.1), methods","Rcpp (>= 0.11.0), utils","Rcpp",NA,NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"httr","httr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2.1",NA,"R (>= 3.0.0)","jsonlite, mime, curl (>= 0.9.1), openssl (>= 0.8), R6",NA,"httpuv, jpeg, knitr, png, testthat (>= 0.8.0), readr, xml2,
+rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"jsonlite","jsonlite","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0",NA,"methods",NA,NA,"httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"KernSmooth","KernSmooth","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.23-15","recommended","R (>= 2.5.0), stats",NA,NA,"MASS",NA,"Unlimited",NA,NA,NA,NA,"yes","3.3.1"
+"knitr","knitr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.14",NA,"R (> 3.0.2)","evaluate (>= 0.8), digest, formatR, highr, markdown, stringr
+(>= 0.6), yaml (>= 2.1.5), methods, tools",NA,"testit, rgl (>= 0.95.1201), codetools, rmarkdown,
+htmlwidgets, webshot, tikzDevice (>= 0.10), png, jpeg, XML,
+RCurl, DBI (>= 0.4-1), tibble",NA,"GPL",NA,NA,NA,NA,"no","3.3.1"
+"labeling","labeling","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.3",NA,NA,NA,NA,NA,NA,"MIT + file LICENSE | Unlimited",NA,NA,NA,NA,"no","3.3.0"
+"latticeExtra","latticeExtra","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.6-28",NA,"R (>= 2.10.0), lattice, RColorBrewer","grid, stats, utils, grDevices",NA,"maps, mapproj, deldir, tripack, zoo, MASS, quantreg, mgcv",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.3"
+"lazyeval","lazyeval","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.2.0",NA,"R (>= 3.1.0)",NA,NA,"knitr, rmarkdown (>= 0.2.65), testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"magrittr","magrittr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.5",NA,NA,NA,NA,"testthat, knitr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"markdown","markdown","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.7.7",NA,"R (>= 2.11.1)","mime (>= 0.3)",NA,"knitr, RCurl",NA,"GPL-2",NA,NA,NA,NA,"yes","3.3.1"
+"memoise","memoise","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.0",NA,NA,"digest (>= 0.6.3)",NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"mime","mime","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.5",NA,NA,"tools",NA,NA,NA,"GPL",NA,NA,NA,NA,"yes","3.3.1"
+"mitools","mitools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.3",NA,"R (>= 2.10)",NA,NA,"RODBC, DBI, foreign",NA,"GPL-2",NA,NA,NA,NA,"no","3.3.3"
+"munsell","munsell","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.4.3",NA,NA,"colorspace, methods",NA,"ggplot2, testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"openssl","openssl","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.9.4",NA,NA,NA,NA,"testthat, digest, knitr, rmarkdown, jsonlite",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"pbapply","pbapply","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2-1",NA,"R (>= 3.2.0)",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.3.0"
+"PerformanceAnalytics","PerformanceAnalytics","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.4.3541",NA,"R (>= 3.0.0), xts (>= 0.9)","zoo",NA,"Hmisc, MASS, quantmod, gamlss, gamlss.dist, robustbase,
+quantreg, gplots",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"pkgconfig","pkgconfig","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.0.1",NA,NA,"utils",NA,"covr, testthat, disposables (>= 1.0.3)",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"plogr","plogr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1-1",NA,NA,NA,NA,"Rcpp",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"plotrix","plotrix","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","3.6-3",NA,NA,"grDevices, graphics, stats, utils",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.1"
+"plyr","plyr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.8.4",NA,"R (>= 3.1.0)","Rcpp (>= 0.11.0)","Rcpp","abind, testthat, tcltk, foreach, doParallel, itertools,
+iterators, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"png","png","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1-7",NA,"R (>= 2.9.0)",NA,NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.0"
+"praise","praise","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.0",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"pROC","pROC","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.10.0",NA,"R (>= 2.14)","plyr, utils, methods, Rcpp (>= 0.11.1), ggplot2,","Rcpp","microbenchmark, tcltk, MASS, logcondens, doParallel, testthat",NA,"GPL (>= 3)",NA,NA,NA,NA,"yes","3.3.3"
+"proto","proto","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.3-10",NA,NA,NA,NA,"graph, Rgraphviz",NA,"GPL-2",NA,NA,NA,NA,NA,"3.3.0"
+"R.methodsS3","R.methodsS3","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.7.1",NA,"R (>= 2.13.0)","utils",NA,NA,NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.3.0"
+"R.oo","R.oo","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.20.0",NA,"R (>= 2.13.0), R.methodsS3 (>= 1.7.0)","methods, utils",NA,"tools",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.3.0"
+"R.utils","R.utils","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.3.0",NA,"R (>= 2.14.0), R.oo (>= 1.19.0)","methods, utils, tools, R.methodsS3 (>= 1.7.0)",NA,"digest (>= 0.6.8)",NA,"LGPL (>= 2.1)",NA,NA,NA,NA,"no","3.3.1"
+"R2PPT","R2PPT","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.1",NA,"R (>= 2.3.0)",NA,NA,"rcom, RDCOMClient",NA,"GPL (>= 2)",NA,NA,"windows",NA,NA,"3.3.0"
+"R6","R6","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.1.2",NA,"R (>= 3.0)",NA,NA,"knitr, microbenchmark, pryr, testthat, ggplot2, scales",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"RColorBrewer","RColorBrewer","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.1-2",NA,"R (>= 2.0.0)",NA,NA,NA,NA,"Apache License 2.0",NA,NA,NA,NA,"no","3.3.0"
+"Rcpp","Rcpp","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.12.13",NA,"R (>= 3.0.0)","methods, utils",NA,"RUnit, inline, rbenchmark, knitr, rmarkdown, pinp, pkgKitten
+(>= 0.1.2)",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.3"
+"RCurl","RCurl","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.95-4.8",NA,"R (>= 3.0.0), methods, bitops",NA,NA,"Rcompression, XML",NA,"BSD",NA,NA,NA,NA,"yes","3.3.0"
+"RDCOMClient","RDCOMClient","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.93-0.2",NA,"methods",NA,NA,"SWinTypeLibs",NA,"GPL-2",NA,NA,NA,NA,NA,"3.1.2"
+"relaimpo","relaimpo","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.2-2",NA,"R(>= 2.2.1), MASS, boot, survey, mitools, graphics","methods, corpcor",NA,NA,NA,"GPL-2",NA,NA,NA,NA,"no","3.3.3"
+"relimp","relimp","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0-5",NA,"R (>= 2.0.0)","stats, utils",NA,"tcltk, nnet, MASS, Rcmdr",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.3"
+"ReporteRs","ReporteRs","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.8.6",NA,"R (>= 3.0), ReporteRsjars (>= 0.0.2)","grDevices, rJava, utils, rvg (>= 0.0.8), xml2, gdtools, png,
+R.utils, knitr, shiny",NA,"ggplot2, jpeg, bmp, testthat, magrittr, rmarkdown, ggiraph",NA,"GPL-3",NA,NA,NA,NA,"no","3.3.1"
+"ReporteRsjars","ReporteRsjars","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.0.2",NA,"R (>= 3.0)","rJava",NA,NA,NA,"GPL-3",NA,NA,NA,NA,"no","3.3.1"
+"reshape2","reshape2","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.4.1",NA,NA,"plyr (>= 1.8.1), stringr, Rcpp","Rcpp","testthat (>= 0.8.0), lattice",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"rJava","rJava","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.9-8",NA,"R (>= 2.5.0), methods",NA,NA,NA,NA,"GPL-2",NA,NA,NA,NA,"yes","3.3.1"
+"rlang","rlang","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1.4",NA,"R (>= 3.1.0)",NA,NA,"knitr, rmarkdown (>= 0.2.65), testthat, covr",NA,"GPL-3",NA,NA,NA,NA,"yes","3.3.3"
+"rmarkdown","rmarkdown","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0",NA,"R (>= 3.0)","tools, utils, grDevices, knitr (>= 1.13), yaml (>= 2.1.5),
+htmltools (>= 0.2.4), caTools, evaluate, base64enc, jsonlite",NA,"shiny (>= 0.11), tufte, testthat, digest",NA,"GPL-3",NA,NA,NA,NA,"no","3.3.1"
+"RSQLite","RSQLite","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.0",NA,"R (>= 2.10.0), DBI (>= 0.3.1), methods",NA,NA,"testthat",NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"rstudioapi","rstudioapi","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.6",NA,NA,NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"rvest","rvest","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.3.2",NA,"R (>= 3.0.1), xml2","httr (>= 0.5), selectr, magrittr",NA,"testthat, knitr, png, stringi (>= 0.3.1), rmarkdown, covr",NA,"GPL-3",NA,NA,NA,NA,"no","3.3.1"
+"rvg","rvg","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1.0",NA,"R (>= 3.0)","grDevices, Rcpp, xml2 (>= 1.0.0), gdtools, utils, R.utils","Rcpp, gdtools","htmltools, testthat, covr, grid",NA,"GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"sandwich","sandwich","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.4-0",NA,"R (>= 2.10.0)","stats, utils, zoo",NA,"AER, car, geepack, lattice, lmtest, MASS, multiwayvcov, pcse,
+plm, pscl, scatterplot3d, stats4, strucchange, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.3.3"
+"scales","scales","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.5.0",NA,"R (>= 2.13)","RColorBrewer, dichromat, plyr, munsell (>= 0.2), labeling,
+Rcpp, R6, viridisLite","Rcpp","testthat (>= 0.8), bit64, covr, hms",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"selectr","selectr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.2-3",NA,"R (>= 2.15.2)","methods, XML, stringr",NA,"testthat",NA,"BSD_3_clause + file LICENCE",NA,NA,NA,NA,"no","3.3.1"
+"shiny","shiny","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.14",NA,"R (>= 3.0.0), methods","utils, httpuv (>= 1.3.3), mime (>= 0.3), jsonlite (>= 0.9.16),
+xtable, digest, htmltools (>= 0.3.5), R6 (>= 2.0), sourcetools",NA,"datasets, Cairo (>= 1.5-5), testthat, knitr (>= 1.6),
+markdown, rmarkdown, ggplot2",NA,"GPL-3 | file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"sourcetools","sourcetools","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.1.5",NA,"R (>= 3.0.2)",NA,NA,"testthat",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"sqldf","sqldf","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.4-11",NA,"R (>= 3.1.0), gsubfn (>= 0.6), proto, RSQLite","DBI, chron",NA,"RH2, RMySQL, RPostgreSQL, svUnit, tcltk, MASS",NA,"GPL-2",NA,NA,NA,NA,"no","3.3.3"
+"stringi","stringi","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.1.1",NA,"R (>= 2.13.1)","tools, utils, stats",NA,NA,NA,"file LICENSE","yes",NA,NA,NA,"yes","3.3.0"
+"stringr","stringr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.0",NA,"R (>= 2.14)","stringi (>= 0.4.1), magrittr",NA,"testthat, knitr",NA,"GPL-2",NA,NA,NA,NA,"no","3.3.1"
+"survey","survey","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","3.32-1",NA,"R (>= 2.16.0), grid, methods, Matrix, survival","stats, graphics, splines, lattice",NA,"foreign, MASS, KernSmooth, hexbin, mitools, RSQLite, RODBC,
+quantreg, parallel, CompQuadForm, DBI",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"no","3.3.3"
+"survival","survival","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.41-3","recommended","R (>= 2.13.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.3.3"
+"swirl","swirl","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.4.2",NA,"R (>= 3.1.0)","stringr, testthat (>= 1.0.2), httr (>= 1.1.0), yaml, RCurl,
+digest, tools, methods",NA,"stringi",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.1"
+"tcltk2","tcltk2","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.2-11",NA,"R (>= 2.8.0), tcltk",NA,NA,"utils",NA,"LGPL-3 + file LICENSE",NA,NA,NA,NA,"no","3.3.0"
+"testthat","testthat","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.2",NA,"R (>= 3.1.0)","digest, crayon, praise, magrittr, R6, methods",NA,"devtools, withr, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"tibble","tibble","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.3.4",NA,"R (>= 3.1.0)","methods, rlang, Rcpp (>= 0.12.3), utils","Rcpp","covr, dplyr, knitr (>= 1.5.32), microbenchmark, nycflights13,
+testthat, rmarkdown, withr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"yes","3.3.3"
+"viridis","viridis","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.4.0",NA,"R (>= 2.10), viridisLite (>= 0.2.0)","stats, ggplot2 (>= 1.0.1), gridExtra",NA,"hexbin (>= 1.27.0), scales, MASS, knitr, dichromat,
+colorspace, rasterVis, httr, mapproj, vdiffr, svglite (>=
+1.2.0), testthat, covr, rmarkdown",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"viridisLite","viridisLite","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.2.0",NA,"R (>= 2.10)",NA,NA,"hexbin (>= 1.27.0), ggplot2 (>= 1.0.1), testthat, covr",NA,"MIT + file LICENSE",NA,NA,NA,NA,"no","3.3.3"
+"whisker","whisker","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.3-2",NA,NA,NA,NA,"markdown",NA,"GPL-3",NA,NA,NA,NA,"no","3.3.1"
+"withr","withr","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.2",NA,"R (>= 3.0.2)","stats, graphics",NA,"testthat",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.1"
+"XML","XML","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","3.98-1.4",NA,"R (>= 2.13.0), methods, utils",NA,NA,"bitops, RCurl",NA,"BSD_2_clause + file LICENSE",NA,NA,NA,NA,"yes","3.3.0"
+"xml2","xml2","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.0.0",NA,"R (>= 3.1.0)","Rcpp","Rcpp (>= 0.11.4.6), BH","testthat, curl, covr, knitr, rmarkdown, magrittr, httr",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"xtable","xtable","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.8-2",NA,"R (>= 2.10.0)","stats, utils",NA,"knitr, lsmeans, spdep, splm, sphet, plm, zoo, survival",NA,"GPL (>= 2)",NA,NA,NA,NA,"no","3.3.1"
+"xts","xts","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","0.9-7",NA,"zoo (>= 1.7-10)",NA,NA,"timeSeries,timeDate,tseries,its,chron,fts,tis",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"yaml","yaml","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","2.1.13",NA,NA,NA,NA,"testthat",NA,"BSD_3_clause + file LICENSE",NA,NA,NA,NA,"yes","3.3.1"
+"zoo","zoo","C:/Users/erict/OneDrive/Documents/R/win-library/3.3","1.7-13",NA,"R (>= 2.10.0), stats","utils, graphics, grDevices, lattice (>= 0.20-27)",NA,"coda, chron, DAAG, fts, its, ggplot2, mondate, scales,
+strucchange, timeDate, timeSeries, tis, tseries, xts",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"base","base","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,NA,NA,"methods",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"boot","boot","C:/Program Files (x86)/R/R-3.3.1/library","1.3-18","recommended","R (>= 3.0.0), graphics, stats",NA,NA,"MASS, survival",NA,"Unlimited",NA,NA,NA,NA,"no","3.3.1"
+"class","class","C:/Program Files (x86)/R/R-3.3.1/library","7.3-14","recommended","R (>= 3.0.0), stats, utils","MASS",NA,NA,NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"cluster","cluster","C:/Program Files (x86)/R/R-3.3.1/library","2.0.4","recommended","R (>= 3.0.1)","graphics, grDevices, stats, utils",NA,"MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"codetools","codetools","C:/Program Files (x86)/R/R-3.3.1/library","0.2-14","recommended","R (>= 2.1)",NA,NA,NA,NA,"GPL",NA,NA,NA,NA,"no","3.3.1"
+"compiler","compiler","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,NA,NA,NA,NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"datasets","datasets","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,NA,NA,NA,NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"foreign","foreign","C:/Program Files (x86)/R/R-3.3.1/library","0.8-66","recommended","R (>= 3.0.0)","methods, utils, stats",NA,NA,NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"graphics","graphics","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"grDevices",NA,NA,NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"grDevices","grDevices","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,NA,NA,"KernSmooth",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"grid","grid","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"grDevices, utils",NA,"lattice",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"KernSmooth","KernSmooth","C:/Program Files (x86)/R/R-3.3.1/library","2.23-15","recommended","R (>= 2.5.0), stats",NA,NA,"MASS",NA,"Unlimited",NA,NA,NA,NA,"yes","3.3.1"
+"lattice","lattice","C:/Program Files (x86)/R/R-3.3.1/library","0.20-33","recommended","R (>= 3.0.0)","grid, grDevices, graphics, stats, utils",NA,"KernSmooth, MASS","chron","GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"MASS","MASS","C:/Program Files (x86)/R/R-3.3.1/library","7.3-45","recommended","R (>= 3.1.0), grDevices, graphics, stats, utils","methods",NA,"lattice, nlme, nnet, survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"Matrix","Matrix","C:/Program Files (x86)/R/R-3.3.1/library","1.2-6","recommended","R (>= 3.0.1)","methods, graphics, grid, stats, utils, lattice",NA,"expm, MASS","MatrixModels, graph, SparseM, sfsmisc","GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.3.1"
+"methods","methods","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"utils, stats",NA,"codetools",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"mgcv","mgcv","C:/Program Files (x86)/R/R-3.3.1/library","1.8-12","recommended","R (>= 2.14.0), nlme (>= 3.1-64)","methods, stats, graphics, Matrix",NA,"splines, parallel, survival, MASS",NA,"GPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"nlme","nlme","C:/Program Files (x86)/R/R-3.3.1/library","3.1-128","recommended","R (>= 3.0.2)","graphics, stats, utils, lattice",NA,"Hmisc, MASS",NA,"GPL (>= 2) | file LICENCE",NA,NA,NA,NA,"yes","3.3.1"
+"nnet","nnet","C:/Program Files (x86)/R/R-3.3.1/library","7.3-12","recommended","R (>= 2.14.0), stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"parallel","parallel","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"tools",NA,"methods","snow, nws, Rmpi","Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"rpart","rpart","C:/Program Files (x86)/R/R-3.3.1/library","4.1-10","recommended","R (>= 2.15.0), graphics, stats, grDevices",NA,NA,"survival",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"spatial","spatial","C:/Program Files (x86)/R/R-3.3.1/library","7.3-11","recommended","R (>= 3.0.0), graphics, stats, utils",NA,NA,"MASS",NA,"GPL-2 | GPL-3",NA,NA,NA,NA,"yes","3.3.1"
+"splines","splines","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"graphics, stats",NA,"Matrix, methods",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"stats","stats","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"utils, grDevices, graphics",NA,"MASS, Matrix, SuppDists, methods, stats4",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"stats4","stats4","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"graphics, methods, stats",NA,NA,NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"survival","survival","C:/Program Files (x86)/R/R-3.3.1/library","2.39-4","recommended","R (>= 2.13.0)","graphics, Matrix, methods, splines, stats, utils",NA,NA,NA,"LGPL (>= 2)",NA,NA,NA,NA,"yes","3.3.1"
+"tcltk","tcltk","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,"utils",NA,NA,NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"tools","tools","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,NA,NA,"codetools, methods, xml2",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"translations","translations","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1",NA,NA,NA,NA,NA,NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
+"utils","utils","C:/Program Files (x86)/R/R-3.3.1/library","3.3.1","base",NA,NA,NA,"methods, XML",NA,"Part of R 3.3.1",NA,NA,NA,NA,NA,"3.3.1"
